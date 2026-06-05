@@ -1,6 +1,6 @@
 [
   { "Cheat": "Luminox Schedule 1", "Version": "1.0.0", "Game": "Schedule I", "LastUpdate": "4-14-2026", "Status": "Undetected", "Type": "MelonLoader", "Download": "https://github.com/rrgzvfh6yn-jpg/dfghkjgdfhkjdgfhkj/raw/refs/heads/main/LuminoxS1.dll" },
   { "Cheat": "Luminox Combat Master", "Version": "1.0.0", "Game": "CombatMaster", "LastUpdate": "5-7-2026", "Status": "Undetected", "Type": "Standard-Injection", "Download": "https://github.com/rrgzvfh6yn-jpg/dfghkjgdfhkjdgfhkj/raw/refs/heads/main/LuminoxCM.dll" },
-  { "Cheat": "Luminox Free", "Version": "1.0.0", "Game": "AnimalCompany", "LastUpdate": "6-5-2026", "Status": "Undetected", "Type": "Frida", "Download": "https://femsjpskyurirxmejjrd.supabase.co/storage/v1/object/public/scripts/LuminoxFree.js" },
-  { "Cheat": "Quest Servers", "Version": "1.0.0", "Game": "AnimalCompany", "LastUpdate": "6-4-2026", "Status": "Undetected", "Type": "Frida", "Download": "https://femsjpskyurirxmejjrd.supabase.co/storage/v1/object/public/scripts/QuestServers.js" }
+  { "Cheat": "Luminox Free", "Version": "1.0.0", "Game": "AnimalCompany", "LastUpdate": "6-5-2026", "Status": "Undetected", "Type": "Frida", "Download": "https://femsjpskyurirxmejjrd.supabase.co/functions/v1/lmx-sc?file=LuminoxFree.js" },
+  { "Cheat": "Quest Servers", "Version": "1.0.0", "Game": "AnimalCompany", "LastUpdate": "6-4-2026", "Status": "Undetected", "Type": "Frida", "Download": "https://femsjpskyurirxmejjrd.supabase.co/functions/v1/lmx-sc?file=QuestServers.js" }
 ]
