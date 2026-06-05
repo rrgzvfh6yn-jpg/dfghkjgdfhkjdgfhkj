@@ -1,6 +1,6 @@
 [
-  { "Cheat": "Luminox Schedule 1", "Version": "1.0.0", "Game": "Schedule I", "LastUpdate": "4-14-2026", "Status": "Undetected", "Type": "MelonLoader", "Download": "https://github.com/Cyx-xx/Luminox/raw/refs/heads/main/LuminoxS1.dll" },
-  { "Cheat": "Luminox Combat Master", "Version": "1.0.0", "Game": "CombatMaster", "LastUpdate": "5-7-2026", "Status": "Undetected", "Type": "Standard-Injection", "Download": "https://github.com/Cyx-xx/Luminox/raw/refs/heads/main/LuminoxCM.dll" },
-  { "Cheat": "Luminox Animal Company Steam", "Version": "1.0.0", "Game": "AnimalCompany", "LastUpdate": "6-3-2026", "Status": "Undetected", "Type": "Frida", "Download": "https://raw.githubusercontent.com/Cyx-xx/Luminox/refs/heads/main/Frida%20Stuff/Luminox.js" },
-  { "Cheat": "Quest Servers", "Version": "1.0.0", "Game": "AnimalCompany", "LastUpdate": "6-4-2026", "Status": "Undetected", "Type": "Frida", "Download": "https://raw.githubusercontent.com/Cyx-xx/Luminox/refs/heads/main/Frida%20Stuff/QuestServers.ts" }
+  { "Cheat": "Luminox Schedule 1", "Version": "1.0.0", "Game": "Schedule I", "LastUpdate": "4-14-2026", "Status": "Undetected", "Type": "MelonLoader", "Download": "https://github.com/rrgzvfh6yn-jpg/dfghkjgdfhkjdgfhkj/raw/refs/heads/main/LuminoxS1.dll" },
+  { "Cheat": "Luminox Combat Master", "Version": "1.0.0", "Game": "CombatMaster", "LastUpdate": "5-7-2026", "Status": "Undetected", "Type": "Standard-Injection", "Download": "https://github.com/rrgzvfh6yn-jpg/dfghkjgdfhkjdgfhkj/raw/refs/heads/main/LuminoxCM.dll" },
+  { "Cheat": "Luminox Animal Company Steam", "Version": "1.0.0", "Game": "AnimalCompany", "LastUpdate": "6-3-2026", "Status": "Undetected", "Type": "Frida", "Download": "https://raw.githubusercontent.com/rrgzvfh6yn-jpg/dfghkjgdfhkjdgfhkj/refs/heads/main/Frida/LuminoxFree.js" },
+  { "Cheat": "Quest Servers", "Version": "1.0.0", "Game": "AnimalCompany", "LastUpdate": "6-4-2026", "Status": "Undetected", "Type": "Frida", "Download": "https://raw.githubusercontent.com/rrgzvfh6yn-jpg/dfghkjgdfhkjdgfhkj/refs/heads/main/Frida/QuestServers.ts" }
 ]
